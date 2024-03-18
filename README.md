@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+⚡I am currently working on control theory in networked systems. And I want to study from Github to improve my codes. for I am new in this area.
+
+🌱please be kind to me if I have asked some simple questions.  And hope us a happy day!
+
 <!--
 **Congk001/Congk001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
